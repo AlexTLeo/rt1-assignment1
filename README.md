@@ -29,6 +29,7 @@ The simulation speed is quite high, but this is because I wanted to allow the ro
 
 **Pseudocode**
 ============================
+```
 while simulation is running
   scan for tokens in front
 
@@ -46,3 +47,4 @@ while simulation is running
       drive straight ahead
     else
       turn towards free path to avoid obstacles
+```
