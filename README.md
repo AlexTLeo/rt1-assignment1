@@ -8,6 +8,7 @@ In the simulator there is a robot in an "arena" of golden and silver tokens. The
 
 **Running the program**
 ============================
+The simulator requires a Python 2.7 installation, the [pygame library](http://pygame.org/), [PyPyBox2D](https://pypi.python.org/pypi/pypybox2d/2.1-r331), and [PyYAML](https://pypi.python.org/pypi/PyYAML/).
 Simply launch the file "start"
 
 **Description**
