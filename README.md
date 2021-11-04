@@ -1,7 +1,4 @@
-**Research Track 1**
-
-**Assignment 1**
-
+**Research Track 1, Assignment 1**\n
 Student: *Alex Thanaphon Leonardi*
 
 **Introduction**
