@@ -1,6 +1,8 @@
 **MSc in Robotics Engineering**<br>
-**Research Track 1, Assignment 1**<br>
-**Student: Alex Thanaphon Leonardi**
+**Course: Research Track 1**<br>
+**Student: Alex Thanaphon Leonardi**<br>
+
+**Assignment 1**<br>
 
 **Introduction**
 ============================
