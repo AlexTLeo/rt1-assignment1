@@ -1,7 +1,7 @@
 **Institution:** Università di Genova<br>
 **Course:** MSc in Robotics Engineering<br> 
 **Subject:** Research Track 1<br>
-**Student:** **Alex Thanaphon Leonardi**<br>
+**Author:** ***Alex Thanaphon Leonardi***<br>
 
 **Assignment 1**<br>
 
