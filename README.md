@@ -1,6 +1,6 @@
-**MSc in Robotics Engineering**<br>
-**Course: Research Track 1**<br>
-**Student: Alex Thanaphon Leonardi**<br>
+MSc in ***Robotics Engineering***, **Università di Genova**<br>
+**Course:** Research Track 1<br>
+**Student:** ***Alex Thanaphon Leonardi***<br>
 
 **Assignment 1**<br>
 
